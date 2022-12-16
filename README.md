@@ -9,7 +9,7 @@ https://docs.drone.io/server/provider/github/
 $ cp .env.example .env
 ```
 
-### Step 3
+### Step 3 Build
 ```
 $ docker compose up -d
 ```
